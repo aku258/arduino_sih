@@ -1,0 +1,12 @@
+C++ classes
+
+1. Receiver
+it should be called continuously in a loop
+receive the data (key pressed data)
+
+2. Transmitter
+transmit the received data in the form of ir
+
+3. Bluetooth Receiver
+
+4. Data
